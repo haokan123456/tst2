@@ -1,0 +1,17 @@
+{
+    "name": "haokan1113/aa",
+    "description": "练习",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "1312167352",
+            "email": "1312167352@qq.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "lib.php"
+        ]
+    }
+}
